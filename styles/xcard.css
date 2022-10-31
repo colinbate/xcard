@@ -1,7 +1,7 @@
-#xcard.app.window-app {
+#x-card.app.window-app {
     box-shadow: none;
 }
 
-#xcard.app.window-app .window-content img {
+#x-card.app.window-app .window-content img {
     border: none;
 }
