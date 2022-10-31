@@ -1,5 +1,5 @@
 
-const MODULE_ID = 'xcard';
+const MODULE_ID = 'x-card';
 const IMG_WIDTH = 420;
 const IMG_HEIGHT = 600;
 
