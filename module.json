@@ -1,0 +1,42 @@
+{
+  "id": "xcard",
+  "title": "X Card",
+  "description": "Is there a topic that has come up that you are uncomfortable with? Toss down a virtual X card to halt and change topic.",
+  "authors": [
+    { "name": "Colin Bate" }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": 10,
+    "verified": 10
+  },
+  "esmodules": [
+    "./scripts/xcard.js"
+  ],
+  "styles" : [
+    "./styles/xcard.css"
+  ],
+  "socket": true,
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    },
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "languages/fr.json"
+    },
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "languages/de.json"
+    }
+  ],
+  "bugs": "https://github.com/colinbate/fvtt-xcard/issues",
+  "changelog": "https://github.com/colinbate/fvtt-xcard/releases",
+  "url": "https://github.com/colinbate/fvtt-xcard",
+  "manifest": "https://github.com/colinbate/fvtt-xcard/releases/latest/download/module.json",
+  "download": "https://github.com/colinbate/fvtt-xcard/releases/download/v1.0.0/xcard.zip"
+}
